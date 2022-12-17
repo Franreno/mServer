@@ -1,0 +1,193 @@
+[12:48:10] [ServerMain/INFO]: Building unoptimized datafixer
+[12:48:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:48:15] [ServerMain/INFO]: Loaded 7 recipes
+[12:48:15] [ServerMain/INFO]: Loaded 1179 advancements
+[12:48:17] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[12:48:17] [Server thread/INFO]: Loading properties
+[12:48:17] [Server thread/INFO]: Default game type: SURVIVAL
+[12:48:17] [Server thread/INFO]: Generating keypair
+[12:48:18] [Server thread/INFO]: Starting Minecraft server on 192.168.15.233:25565
+[12:48:18] [Server thread/INFO]: Using epoll channel type
+[12:48:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:48:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:48:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:48:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:48:18] [Server thread/INFO]: Preparing level "world"
+[12:48:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:48:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:48:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:48:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:48:26] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[12:48:26] [Worker-Main-3/INFO]: Preparing spawn area: 26%
+[12:48:27] [Worker-Main-1/INFO]: Preparing spawn area: 63%
+[12:48:28] [Worker-Main-1/INFO]: Preparing spawn area: 86%
+[12:48:28] [Server thread/INFO]: Time elapsed: 9205 ms
+[12:48:28] [Server thread/INFO]: Done (9.604s)! For help, type "help"
+[12:54:28] [Server thread/INFO]: Marquesa[/187.120.37.145:63269] logged in with entity id 59 at (1098.7677238513902, 64.0, -322.6628040556416)
+[12:54:28] [Server thread/INFO]: Marquesa joined the game
+[12:54:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5342ms or 106 ticks behind
+[13:32:43] [Server thread/INFO]: [Marquesa: Gave 1 [Name Tag] to Marquesa]
+[13:34:09] [Server thread/WARN]: Marquesa moved wrongly!
+[14:08:25] [Server thread/INFO]: Incorrect argument for command
+[14:08:25] [Server thread/INFO]: ...ft:book 1 0 {display:{Name:"te amo"}}<--[HERE]
+[14:08:40] [Server thread/INFO]: [Not Secure] [Server] te amo
+[14:08:44] [Server thread/INFO]: [Not Secure] <Marquesa> AAAAAAAAAA
+[14:08:44] [Server thread/INFO]: [Not Secure] [Server] <3
+[14:08:47] [Server thread/INFO]: [Not Secure] <Marquesa> tambem te amo <3
+[14:08:56] [Server thread/INFO]: [Not Secure] [Server] quero terminar logo aqui pra entrar contigo
+[14:09:03] [Server thread/INFO]: [Not Secure] <Marquesa> owwwwn
+[14:09:09] [Server thread/INFO]: [Not Secure] <Marquesa> estarei esperando <3
+[14:09:13] [Server thread/INFO]: [Not Secure] [Server] faltam uns dois tópicos (grandes) :(
+[14:09:28] [Server thread/INFO]: [Not Secure] <Marquesa> tudo bem >:c
+[14:09:39] [Server thread/INFO]: [Not Secure] <Marquesa> qualquer coisa eu volto qnd vc tiver pronto
+[14:10:37] [Server thread/INFO]: [Not Secure] <Marquesa> hj a net ta boa(:
+[14:11:13] [Server thread/INFO]: Marquesa fell from a high place
+[14:16:43] [Server thread/INFO]: [Marquesa: Set the time to 13000]
+[14:23:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1120, y=74, z=-289} gt{x=1120, y=75, z=-289}
+[14:25:07] [Server thread/INFO]: [Marquesa: Set the time to 13000]
+[14:33:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1118, y=71, z=-282} gt{x=1119, y=72, z=-283}
+[14:35:56] [Server thread/INFO]: [Marquesa: Gamerule randomTickSpeed is now set to: 20]
+[14:43:19] [Server thread/WARN]: Marquesa moved wrongly!
+[15:03:58] [Server thread/INFO]: [Marquesa: Gamerule randomTickSpeed is now set to: 30]
+[15:05:44] [Server thread/INFO]: [Marquesa: Gamerule randomTickSpeed is now set to: 20]
+[15:05:50] [Server thread/INFO]: Franreno[/192.168.15.4:65181] logged in with entity id 23914 at (1132.6198221062477, 73.0, -305.6958309602334)
+[15:05:50] [Server thread/INFO]: Franreno joined the game
+[15:05:52] [Server thread/INFO]: [Not Secure] <Marquesa> aaaaaaaaaa
+[15:05:53] [Server thread/INFO]: [Not Secure] <Marquesa> chegouu
+[15:05:57] [Server thread/INFO]: [Marquesa: Teleported Marquesa to Franreno]
+[15:06:08] [Server thread/INFO]: [Not Secure] <Franreno> oiii
+[15:06:09] [Server thread/INFO]: [Not Secure] <Marquesa> vai disc?
+[15:06:11] [Server thread/INFO]: [Not Secure] <Marquesa> oii amor
+[15:06:11] [Server thread/INFO]: [Not Secure] <Franreno> to carregando
+[15:06:13] [Server thread/INFO]: [Not Secure] <Franreno> sim
+[15:06:13] [Server thread/INFO]: [Not Secure] <Marquesa> kkkk ok
+[15:06:14] [Server thread/INFO]: [Not Secure] <Franreno> bora
+[15:06:25] [Server thread/INFO]: [Not Secure] <Marquesa> brb
+[15:07:26] [Server thread/INFO]: [Not Secure] <Marquesa> me espera
+[15:07:29] [Server thread/INFO]: [Not Secure] <Marquesa> pra ver a torre
+[15:07:32] [Server thread/INFO]: [Not Secure] <Franreno> ok
+[15:07:43] [Server thread/INFO]: [Not Secure] <Marquesa> to on
+[15:15:28] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1187, y=95, z=-292} gt{x=1187, y=95, z=-293}
+[15:15:28] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1187, y=95, z=-292} gt{x=1187, y=95, z=-293}
+[15:15:28] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1187, y=95, z=-292} gt{x=1187, y=95, z=-293}
+[15:17:56] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1189, y=94, z=-303} gt{x=1190, y=94, z=-302}
+[15:20:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=94, z=-294} gt{x=1193, y=94, z=-294}
+[15:23:42] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1182, y=86, z=-329} gt{x=1181, y=86, z=-329}
+[15:23:42] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1182, y=86, z=-329} gt{x=1181, y=86, z=-329}
+[15:23:42] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1182, y=86, z=-329} gt{x=1181, y=86, z=-329}
+[15:23:42] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1182, y=86, z=-329} gt{x=1181, y=86, z=-329}
+[15:24:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1181, y=91, z=-293} gt{x=1182, y=91, z=-293}
+[15:24:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1181, y=91, z=-293} gt{x=1182, y=91, z=-293}
+[15:24:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1181, y=91, z=-293} gt{x=1182, y=91, z=-293}
+[15:24:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1181, y=91, z=-293} gt{x=1182, y=91, z=-293}
+[15:24:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1181, y=91, z=-293} gt{x=1182, y=91, z=-293}
+[15:24:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1181, y=91, z=-293} gt{x=1182, y=91, z=-293}
+[15:24:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1181, y=91, z=-293} gt{x=1182, y=91, z=-293}
+[15:24:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1181, y=91, z=-293} gt{x=1182, y=91, z=-293}
+[15:24:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1181, y=91, z=-293} gt{x=1182, y=91, z=-293}
+[15:33:18] [Server thread/INFO]: [Franreno: Teleported Franreno to Marquesa]
+[15:33:18] [Server thread/WARN]: Franreno moved too quickly! -15.477188345067134,-4.5,-8.128735765136696
+[15:33:18] [Server thread/WARN]: Franreno moved too quickly! -15.477188345067134,-4.5,-8.128735765136696
+[15:35:17] [Server thread/INFO]: [Marquesa: Gave 20 [Firework Rocket] to Marquesa]
+[15:35:52] [Server thread/WARN]: Marquesa moved too quickly! -728.2275144320696,55.46415937495544,1392.9368145243368
+[15:39:30] [Server thread/INFO]: Franreno fell out of the world
+[15:39:30] [Server thread/INFO]: [Franreno: Killed Franreno]
+[15:39:33] [Server thread/INFO]: [Marquesa: Teleported Marquesa to Franreno]
+[15:40:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1177, y=81, z=-315} gt{x=1176, y=80, z=-314}
+[15:40:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1177, y=81, z=-315} gt{x=1176, y=80, z=-314}
+[15:41:39] [Server thread/INFO]: [Franreno: Teleported Marquesa to Franreno]
+[15:44:00] [Server thread/INFO]: Franreno tried to swim in lava
+[15:45:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1176, y=94, z=-277} gt{x=1177, y=94, z=-278}
+[15:54:34] [Server thread/INFO]: [Franreno: Set own game mode to Spectator Mode]
+[15:54:45] [Server thread/INFO]: [Franreno: Set own game mode to Survival Mode]
+[15:59:09] [Server thread/INFO]: [Franreno: Teleported Franreno to Marquesa]
+[15:59:09] [Server thread/WARN]: Franreno moved too quickly! 238.17547049831478,134.0,-374.004590852251
+[16:00:30] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1157, y=81, z=-308} gt{x=1158, y=82, z=-307}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:05:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1192, y=63, z=-570} gt{x=1192, y=62, z=-572}
+[16:09:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1074, y=59, z=-302} gt{x=1075, y=59, z=-302}
+[16:09:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1074, y=59, z=-302} gt{x=1075, y=59, z=-302}
+[16:09:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1074, y=59, z=-302} gt{x=1075, y=59, z=-302}
+[16:12:46] [Server thread/INFO]: [Not Secure] <Marquesa> vou parar de falar
+[16:12:48] [Server thread/INFO]: [Not Secure] <Marquesa> minha mae ta aqui
+[16:12:55] [Server thread/INFO]: [Not Secure] <Franreno> ok
+[16:19:56] [Server thread/INFO]: [Not Secure] <Marquesa> tudo bem ai xuxu?
+[16:19:58] [Server thread/INFO]: [Not Secure] <Franreno> sss
+[16:22:43] [Server thread/INFO]: [Franreno: Teleported Franreno to Marquesa]
+[16:22:43] [Server thread/WARN]: Franreno moved too quickly! 9.395872046814475,15.0,-28.25493161241792
+[16:22:43] [Server thread/WARN]: Franreno moved too quickly! 9.395872046814475,15.0,-28.25493161241792
+[16:23:03] [Server thread/INFO]: Villager btp['Villager'/50008, l='ServerLevel[world]', x=1163.49, y=75.00, z=-303.49] died, message: 'Villager drowned'
+[16:26:55] [Server thread/INFO]: [Franreno: Teleported Franreno to Marquesa]
+[16:26:55] [Server thread/WARN]: Franreno moved too quickly! -14.75475902539415,11.0,4.180249424213116
+[16:27:30] [Server thread/INFO]: [Franreno: Set own game mode to Spectator Mode]
+[16:27:55] [Server thread/INFO]: [Franreno: Set own game mode to Survival Mode]
+[16:28:02] [Server thread/INFO]: [Franreno: Set own game mode to Spectator Mode]
+[16:28:09] [Server thread/INFO]: [Franreno: Set own game mode to Survival Mode]
+[16:28:22] [Server thread/INFO]: [Franreno: Set own game mode to Spectator Mode]
+[16:28:27] [Server thread/INFO]: [Franreno: Set own game mode to Survival Mode]
+[16:28:43] [Server thread/INFO]: [Franreno: Set own game mode to Spectator Mode]
+[16:28:50] [Server thread/INFO]: [Franreno: Set own game mode to Survival Mode]
+[16:28:51] [Server thread/INFO]: [Franreno: Set own game mode to Spectator Mode]
+[16:28:59] [Server thread/INFO]: [Franreno: Set own game mode to Survival Mode]
+[16:35:09] [Server thread/INFO]: [Franreno: Set own game mode to Spectator Mode]
+[16:35:14] [Server thread/INFO]: [Franreno: Set own game mode to Survival Mode]
+[16:38:15] [Server thread/INFO]: [Marquesa: Set the weather to clear]
+[16:55:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=1147, y=76, z=-295} gt{x=1153, y=75, z=-295}
+[16:57:00] [Server thread/INFO]: [Not Secure] <Franreno> ja volto
+[16:57:02] [Server thread/INFO]: [Not Secure] <Marquesa> ok
+[17:09:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=61, y=60, z=33} gt{x=61, y=60, z=34}
+[17:09:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=61, y=60, z=33} gt{x=61, y=60, z=34}
+[17:09:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=61, y=60, z=33} gt{x=61, y=60, z=34}
+[17:09:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=61, y=60, z=33} gt{x=61, y=60, z=34}
+[17:09:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=61, y=60, z=33} gt{x=61, y=60, z=34}
+[17:09:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=61, y=60, z=33} gt{x=61, y=60, z=34}
+[17:09:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=61, y=60, z=33} gt{x=61, y=60, z=34}
+[17:09:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=61, y=60, z=33} gt{x=61, y=60, z=34}
+[17:09:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=61, y=60, z=33} gt{x=61, y=60, z=34}
+[17:09:09] [Server thread/INFO]: [Franreno: Teleported Franreno to Marquesa]
+[17:15:54] [Server thread/WARN]: Franreno moved too quickly! -728.8587816479886,55.39260454995134,1392.689632654055
+[17:15:54] [Server thread/WARN]: Franreno moved too quickly! -728.8587816479886,55.39260454995134,1392.689632654055
+[17:15:54] [Server thread/WARN]: Franreno moved too quickly! -728.8587816479886,55.39260454995134,1392.689632654055
+[17:24:03] [Server thread/INFO]: Franreno fell out of the world
+[17:24:03] [Server thread/INFO]: [Franreno: Killed Franreno]
+[17:26:55] [Server thread/INFO]: Marquesa lost connection: Disconnected
+[17:26:55] [Server thread/INFO]: Marquesa left the game
+[17:27:00] [Server thread/INFO]: Stopping the server
+[17:27:00] [Server thread/INFO]: Stopping server
+[17:27:00] [Server thread/INFO]: Saving players
+[17:27:00] [Server thread/INFO]: Franreno lost connection: Disconnected
+[17:27:00] [Server thread/INFO]: Franreno left the game
+[17:27:00] [Server thread/INFO]: Saving worlds
+[17:27:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:27:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:27:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
